@@ -33,7 +33,7 @@ You can find the installation documentation for the [Jupyter platform, on ReadTh
 
 For a local installation, make sure you have [pip installed](https://pip.pypa.io/en/stable/installing/) and run:
 
-  $ pip install notebook
+    $ pip install notebook
 
 
 ## Usage - Running Jupyter notebook
@@ -42,7 +42,7 @@ For a local installation, make sure you have [pip installed](https://pip.pypa.io
 
 Launch with:
 
-  $ jupyter notebook
+    $ jupyter notebook
 
 ### Running in a remote installation
 
