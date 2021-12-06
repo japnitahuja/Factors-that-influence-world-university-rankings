@@ -20,12 +20,38 @@ The main focus for this analysis is to determine what affects the world univeris
 
 ##  Table of Contents 
 
+1. [Introduction]($intro)
+2. [Description of data]($desc)
+3. [Analysis of the data]($analysis)
+4. [Exploratory Data Analysis]($exp)
+5. [Potential Data Science]($potential)
+6. [Conclusion]($conc)
 
 ## Installation
- 
-## Usage
 
-## Development 
+You can find the installation documentation for the [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html). The documentation for advanced usage of Jupyter notebook can be found [here](https://jupyter-notebook.readthedocs.io/en/latest/).
+
+For a local installation, make sure you have [pip installed](https://pip.pypa.io/en/stable/installing/) and run:
+
+$ pip install notebook
+
+
+## Usage - Running Jupyter notebook
+
+### Running in a local installation
+
+Launch with:
+
+$ jupyter notebook
+
+### Running in a remote installation
+
+You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server.](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
+
+
+## Development/Contribution
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
