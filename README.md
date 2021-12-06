@@ -20,13 +20,12 @@ The main focus for this analysis is to determine what affects the world univeris
 
 ##  Table of Contents 
 
-1. [Installation]($inst)
-2. [Usage - Running Jupyter notebook]($usage)
-3. [Development/Contribution]($dev)
-4. [License]($license)
+1. [ Installation. ](#inst)
+2. [ Usage - Running Jupyter notebook. ](#usage)
+3. [ Development/Contribution. ](#dev)
+4. [ License. ](#license)
 
 <a name="inst"></a>
-
 ## 1. Installation
 
 You can find the installation documentation for the [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html). The documentation for advanced usage of Jupyter notebook can be found [here](https://jupyter-notebook.readthedocs.io/en/latest/).
@@ -36,7 +35,6 @@ For a local installation, make sure you have [pip installed](https://pip.pypa.io
     $ pip install notebook
 
 <a name="usage"></a>
-
 ## 2. Usage - Running Jupyter notebook
 
 ### Running in a local installation
@@ -50,13 +48,11 @@ Launch with:
 You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server.](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
 <a name="dev"></a>
-
 ## 3. Development/Contribution
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 <a name="license"></a>
-
 ## 4. License
 
 Licensed under the [MIT License](LICENSE)
