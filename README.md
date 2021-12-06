@@ -29,5 +29,7 @@ The main focus for this analysis is to determine what affects the world univeris
 
 ## License
 
+Licensed under the [MIT License](LICENSE)
+
 
 
