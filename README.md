@@ -15,15 +15,19 @@ the data processing.
 
 ## Introduction
 
-## Part 1
+The main focus for this analysis is to determine what affects the world univeristy rankings and how does it change through out the years. Are there any attributes that correlate to the world ranking and if there are how are they correlated. We also touched base on how national trends vary over time depending on governmental educational policies/reforms.
 
-Project Propsal: WHAT IT CONTAINS
-Subjects Covered:
 
-### Document outline 
+##  Table of Contents 
 
-## Part 2 
-Data Analysis...
 
-## Part 3 
-Blog post
+## Installation
+ 
+## Usage
+
+## Development 
+
+## License
+
+
+
