@@ -1,4 +1,6 @@
-﻿**Factors that Affect World University Rankings About us:**
+﻿**Factors that Affect World University Rankings 
+
+About us:**
 
 Aanisha Newaz: <https://github.com/Aanisha02>
 
