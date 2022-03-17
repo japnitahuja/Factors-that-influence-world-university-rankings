@@ -13,7 +13,7 @@
 <a name="id"></a>
 ## 1. Identification
 
-Team: Aanisha Newaz, Japnit Ahujha, Islam Nuryyev, Jessica Patel
+Team: Aanisha Newaz, Japnit Ahuja, Islam Nuryyev, Jessica Patel
 
 <a name="overview"></a>
 ## 2. Overview
